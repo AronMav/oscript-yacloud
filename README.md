@@ -1,12 +1,12 @@
-# yandexcloud
+# yacloud
 
-## Установка CLI YandexCloud
+## Установка CLI Yandex Cloud
 
-Первое что необходимо это установить командную строку для использования YandexCloud из консоли.
+Первое что необходимо это установить командную строку для использования Yandex Cloud из консоли.
 
 [Ссылка](https://cloud.yandex.ru/docs/cli/quickstart#install)
 
-## Создание профиля YandexCloud
+## Создание профиля Yandex Cloud
 
 Далее создается профиль и выполняются первоначальные настройки
 
