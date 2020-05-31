@@ -5,4 +5,4 @@ users:
       shell: /bin/bash
       sudo: ['ALL=(ALL) NOPASSWD:ALL']
       ssh-authorized-keys:
-        - ssh-rsa <Открытый ключ SSH>
+        - ssh-rsa <SSH ключ>
