@@ -36,4 +36,5 @@
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/).
+Использование сервиса Платформы Яндекс.Облако регламентируется [Условиями использования сервиса "Платформа Яндекс.Облако"](https://yandex.ru/legal/cloud_termsofuse/) (https://cloud.yandex.ru/docs/cli/).
