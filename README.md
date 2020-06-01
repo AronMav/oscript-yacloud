@@ -22,7 +22,7 @@
     git clone https://github.com/aronmav/oscript-yacloud.git
     ```
 
-2. Добавьте в конфигурационном файле 1Script `oscript.cfg` в список дополнительных библиотек путь к каталогу, в который вы клонировали репозиторий:
+2. Добавьте в конфигурационном файле OneScript `oscript.cfg` в список дополнительных библиотек путь к каталогу, в который вы клонировали репозиторий:
 
     ```
     lib.additional = C:\libs\oscript-yacloud;
