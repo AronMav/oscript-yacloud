@@ -1,17 +1,16 @@
 # yacloud
 
-## Установка CLI Yandex Cloud
+## Информация
+Библиотека для работы с Yandex Cloud из OneScript
 
-Первое что необходимо это установить командную строку для использования Yandex Cloud из консоли.
+## Установка
 
-[Ссылка](https://cloud.yandex.ru/docs/cli/quickstart#install)
+- [Установка CLI Yandex Cloud](https://cloud.yandex.ru/docs/cli/quickstart#install)
+- [Создание профиля Yandex Cloud и первоначальные настройки](https://cloud.yandex.ru/docs/cli/quickstart#initialize)
 
-## Создание профиля Yandex Cloud
+## Использование
 
-Далее создается профиль и выполняются первоначальные настройки
+### API
 
-[Ссылка](https://cloud.yandex.ru/docs/cli/quickstart#initialize)
-
-## Примеры работы с yacloud
-
-Описание в работе...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
