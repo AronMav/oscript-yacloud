@@ -28,10 +28,6 @@
     lib.additional = C:\libs\oscript-yacloud;
     ```
 
-#### Из пакетов opm
-
-    opm install yacloud
-
 ## Использование
 
 
