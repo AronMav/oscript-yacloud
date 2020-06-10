@@ -35,8 +35,8 @@ opm install yacloud
 ### Compute Cloud
 
 1. Подготовка к созданию виртуальной машины
-1.1 Создать [файл авторизации](/template/cloud/сomputeсloud/authorization)
-1.2 Создать [конфигурационный файл](/template/cloud/сomputeсloud)
+1.1. Создать [файл авторизации](/template/cloud/сomputeсloud/authorization)
+1.2. Создать [конфигурационный файл](/template/cloud/сomputeсloud)
    - **КлючАвторизации**
      - **ПутьКФайлу** - путь к ранее соозданному файлу для авторизации к ВМ;
        - [MetadataLinux](/template/cloud/сomputeсloud/authorization/MetadataLinux.yaml)
