@@ -7,8 +7,8 @@
 
 ### CLI Яндекс.Облака
 
-- [Установка CLI Яндекс.Облака](https://cloud.yandex.ru/docs/cli/quickstart#install)
-- [Создание профиля CLI Яндекс.Облака и первоначальные настройки](https://cloud.yandex.ru/docs/cli/quickstart#initialize)
+1. [Установка CLI Яндекс.Облака](https://cloud.yandex.ru/docs/cli/quickstart#install)
+2. [Создание профиля CLI Яндекс.Облака и первоначальные настройки](https://cloud.yandex.ru/docs/cli/quickstart#initialize)
 
 ### OneScript
 
